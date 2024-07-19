@@ -1,3 +1,6 @@
+hier >>> https://rainbow-frangipane-b32cc2.netlify.app/
+
+
 Task: From static HTML to a Vue Instance
 In this task we use the basics of template interpolation.
 
