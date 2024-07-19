@@ -9,3 +9,4 @@ Fulfill the following tasks:
  The persons name John Doe should be located as a data property in the Vue Instance
  Use text interpolation to display the persons name
  Replace 1/24/2022, 12:34:25 PM with the current date and time by using a javascript expression. Take care of the en-us format. See also toLocaleString to solve this.
+.
